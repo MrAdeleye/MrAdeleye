@@ -1,5 +1,9 @@
-<h1>Hi, I'm Daemi! <br/><a  <a href="www.linkedin.com/in/daemi-adeleye/">Aspiring Cybersecurity Professional</a>, 
-
+<h1>
+  Hi, I'm Daemi! <br/>
+  <a href="https://www.linkedin.com/in/daemi-adeleye/" target="_blank">
+    Aspiring Cybersecurity Professional
+  </a>
+</h1>
 <h2>👨‍💻 CyberSecurity  Projects:</h2>
 
 - <b>Linux </b>
