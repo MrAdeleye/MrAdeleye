@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daemi! <br/><a  <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, 
+<h1>Hi, I'm Daemi! <br/><a  <a href="www.linkedin.com/in/daemi-adeleye/">Aspiring Cybersecurity Professional</a>, 
 
 <h2>👨‍💻 CyberSecurity  Projects:</h2>
 
