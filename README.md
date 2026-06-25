@@ -8,6 +8,7 @@
 
 - <b>Linux </b>
   - NMAP Network Reconnaissance(https://github.com/MrAdeleye/Nmap-Reconnaissance-/tree/main)
+  - Password Hash Cracking & Credential Security Analysis
  
   
 <h2> Certifications </h2>
