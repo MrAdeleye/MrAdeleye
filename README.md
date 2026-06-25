@@ -7,8 +7,8 @@
 <h2>👨‍💻 CyberSecurity  Projects:</h2>
 
 - <b>Linux </b>
-  - NMAP Network Reconnaissance(https://github.com/MrAdeleye/Nmap-Reconnaissance-/tree/main)
-  - Password Hash Cracking & Credential Security Analysis
+  - NMAP Network Reconnaissance(https://github.com/MrAdeleye/Nmap-Reconnaissance)
+  - Password Hash Cracking & Credential Security Analysis(https://github.com/MrAdeleye/Password-Hash-Cracking-Credential-Strength-Analysis)
  
   
 <h2> Certifications </h2>
