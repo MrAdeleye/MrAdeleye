@@ -12,7 +12,8 @@
  
   
 <h2> Certifications </h2>
-- CompTIA security + 
+- CompTIA security + (https://www.credly.com/badges/15608f1b-b05d-4ce4-8529-d1c530f9a002/public_url)
+
 <h2> 🤳 Connect with me:</h2>
 
 
