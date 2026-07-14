@@ -9,6 +9,7 @@
 - <b>Linux </b>
   - NMAP Network Reconnaissance(https://github.com/MrAdeleye/Nmap-Reconnaissance)
   - Password Hash Cracking & Credential Security Analysis(https://github.com/MrAdeleye/Password-Hash-Cracking-Credential-Strength-Analysis)
+  - Metasploitable 2 Vulnerability Assessment & Remediation utilizing OPenVas
  
   
 <h2> Certifications </h2>
