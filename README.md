@@ -1,7 +1,7 @@
 <h1>
   Hi, I'm Daemi! <br/>
   <a href="https://www.linkedin.com/in/daemi-adeleye/" target="_blank">
-    Aspiring Cybersecurity Professional
+    Junior SOC Analyst | CompTIA Security+ | Security Operations | SIEM | Vulnerability Management
   </a>
 </h1>
 <h2>👨‍💻 CyberSecurity  Projects:</h2>
