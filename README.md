@@ -10,7 +10,7 @@
   - NMAP Network Reconnaissance(https://github.com/MrAdeleye/Nmap-Reconnaissance-)
   - Password Hash Cracking & Credential Security Analysis(https://github.com/MrAdeleye/Password-Hash-Cracking-Credential-Strength-Analysis)
   - Metasploitable 2 Vulnerability Assessment & Remediation utilizing OPenVas([https://github.com/MrAdeleye/OpenVas-Vulnerabilty-Assessment--Metasploitable2](https://github.com/MrAdeleye/OpenVas-Vulnerabilty-Assessment--Metasploitable2-)
-  - Active Directory + Splunk SOC Lab
+  - Active Directory + Splunk SOC Lab - (https://github.com/MrAdeleye/Active-Directory-Splunk-SOC-Lab)
   
 <h2> Certifications </h2>
 - CompTIA security + (https://www.credly.com/badges/15608f1b-b05d-4ce4-8529-d1c530f9a002/public_url)
